@@ -1,4 +1,4 @@
-# Support_Vector_Machine_Classifier1_Model_with_Python
+# PROJ1_Support_Vector_Machine_Classifier1_Model_with_Python
 
 Using a CSV dataset, my model is able to predict whether a customer is able to retire or not based on their features. Features in the csv that I based my model on is: Age and their net 401k Savings. 
 
