@@ -9,3 +9,5 @@ Libraries Used:
   - matplotlib.pyplot
   - from sklearn.svm import SVC #Support vector classifier
   - from sklearn.metrics import classification_report, confusion_matrix
+  
+  Please Download the CSV as well and make sure they are in same root folder in order for the jupyter notebook to work. 
